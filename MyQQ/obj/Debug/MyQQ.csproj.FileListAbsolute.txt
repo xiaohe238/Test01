@@ -1,0 +1,16 @@
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\bin\Debug\MyQQ.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\bin\Debug\MyQQ.exe
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\bin\Debug\MyQQ.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.csprojAssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.exe
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+D:\Program Files (x86)\Microsoft Visual Studio\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
